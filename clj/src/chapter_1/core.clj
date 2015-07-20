@@ -1,6 +1,6 @@
-(ns clj.core
-  (:require [clj.cities :as cities]
-            [clj.discount :as discount]))
+(ns chapter_1.core
+  (:require [chapter_1.cities :as cities]
+            [chapter_1.discount :as discount]))
 
 (defn main []
   (println "Found chicago?" (cities/find "Chicago"))

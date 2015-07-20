@@ -1,4 +1,4 @@
-(ns clj.discount)
+(ns chapter_1.discount)
 
 (def prices [10 30 17 20 15 18 45 12])
 

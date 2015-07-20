@@ -1,4 +1,4 @@
-(ns clj.cities)
+(ns chapter_1.cities)
 
 (def cities ["SLC" "Denver" "Chicago" "NYC" "Madrid" "London"])
 

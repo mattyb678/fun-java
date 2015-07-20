@@ -1,4 +1,4 @@
-package chapter_1
+package scala_chapter_1
 
 object Discount {
   val prices: List[BigDecimal] = List(10, 30, 17, 20, 15, 18, 45, 12)

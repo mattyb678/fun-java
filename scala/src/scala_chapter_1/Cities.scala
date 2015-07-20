@@ -1,4 +1,4 @@
-package chapter_1
+package scala_chapter_1
 
 object Cities {
 

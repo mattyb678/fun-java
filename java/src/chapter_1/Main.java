@@ -3,6 +3,7 @@ package chapter_1;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("---------- Chapter 1 ----------");
         System.out.println("Found chicago? " + Cities.findCityImperative("Chicago"));
         System.out.println("Found chicago? " + Cities.findCityDeclarative("Chicago"));
 
